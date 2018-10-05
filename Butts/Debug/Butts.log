@@ -1,0 +1,10 @@
+﻿  Butts.cpp
+c:\users\danny.noon.adm\source\repos\butts\butts\cboard.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CBoard.cpp
+c:\users\danny.noon.adm\source\repos\butts\butts\cboard.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\danny.noon.adm\source\repos\butts\butts\cboard.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+c:\users\danny.noon.adm\source\repos\butts\butts\cboard.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+c:\users\danny.noon.adm\source\repos\butts\butts\game.cpp(26): warning C4715: 'Game::GetCurrentBoard': not all control paths return a value
+  Butts.vcxproj -> C:\Users\Danny.Noon.ADM\source\repos\Butts\Debug\Butts.exe
